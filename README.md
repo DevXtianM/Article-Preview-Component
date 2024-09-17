@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/DevXtianM/Testimonials-Grid-Section
-- Live Site URL: https://devxtianm.github.io/Testimonials-Grid-Section/
+- Solution URL: [https://github.com/DevXtianM/Testimonials-Grid-Section](https://github.com/DevXtianM/Article-Preview-Component)
+- Live Site URL: [https://devxtianm.github.io/Testimonials-Grid-Section/](https://devxtianm.github.io/Article-Preview-Component/)
   
 ### Built with
 
